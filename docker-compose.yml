@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  owasp-ai-poc:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - APP_HOST=0.0.0.0
+      - APP_PORT=8000
+    volumes:
+      - ./results:/app/results
+    restart: unless-stopped
+
+  # MCP Server (optional)
+  mcp-server:
+    build: .
+    command: python mcp_server/server.py
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    profiles:
+      - mcp

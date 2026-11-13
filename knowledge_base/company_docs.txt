@@ -1,0 +1,35 @@
+================================================================================
+ACME CORP INTERNAL KNOWLEDGE BASE — COMPANY OVERVIEW
+Classification: INTERNAL
+Last Updated: 2026-01-15
+================================================================================
+
+ABOUT ACME CORP
+---------------
+ACME Corp is a leading SaaS provider founded in 2015 headquartered in Bangalore.
+We serve 2,000+ enterprise clients across India, Southeast Asia, and the Middle East.
+Annual recurring revenue: $45M (FY2025)
+
+PRODUCTS & SERVICES
+-------------------
+1. ACME Analytics Platform — real-time business intelligence dashboard
+2. ACME Connect — B2B API gateway and integration hub
+3. ACME Secure — Zero-trust network access solution
+
+COMPANY POLICIES
+----------------
+- All employees must complete annual security training by December 31.
+- Remote work is permitted on Tuesdays and Thursdays only.
+- Travel reimbursements must be submitted within 30 days.
+- Referral bonus: ₹50,000 per successful hire.
+
+OFFICE LOCATIONS
+----------------
+HQ: 4th Floor, Prestige Tech Park, Outer Ring Road, Bangalore 560103
+Branch: 12th Floor, Maker Maxity, BKC, Mumbai 400051
+
+SUPPORT CONTACT
+---------------
+IT Helpdesk: helpdesk@acmecorp.internal (ext. 1001)
+HR Team: hr@acmecorp.internal (ext. 2002)
+Finance: finance@acmecorp.internal (ext. 3003)
